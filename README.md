@@ -4,7 +4,7 @@
 
 -  I had something happen to my github repo while going through this tutorial, and I wasn't able to recover it. I've provided my code and the files I used in this github repo, but items like the commit history and other comments were lost.
 
--  Thankfully, I wrote out notes on a google doc when I was going through this tutorial. It highlights some of the struggles, questions, thoughts, and solutions I went through when completing this project. While this doesn't make up for the lost commit history or comments, I hope this might be of use. I apologize for the lack of professionalism.
+-  Thankfully, I wrote out notes on a markdown doc when I was going through this tutorial. It highlights some of the struggles, questions, thoughts, and solutions I went through when completing this project. While this doesn't make up for the lost commit history or comments, I hope this might be of use. I apologize for the lack of professionalism.
 
 ## Part 1: Initial Setup and MongoDB Configuration
 
